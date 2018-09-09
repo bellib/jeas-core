@@ -1,23 +1,52 @@
 {
-  "name": "jeas-core",
-  "version": "0.0.1",
+  "_from": "jeas-core",
+  "_id": "jeas-core@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-lny9Z9t0KfQRv7IFnp5q1iyZDx2jH3yNSdC4FMFwSSO3SihVzPSnsOxV5EOp68EN3dxqhHLSume5yzLiRj+QbQ==",
+  "_location": "/jeas-core",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "jeas-core",
+    "name": "jeas-core",
+    "escapedName": "jeas-core",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jeas-core/-/jeas-core-0.0.1.tgz",
+  "_shasum": "decbf1f87475413543a5450be572a1c0c2a7b344",
+  "_spec": "jeas-core",
+  "_where": "F:\\jeas",
+  "author": {
+    "name": "Bellia habib",
+    "email": "bellib6@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bellib/jeas-core/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "",
-  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "homepage": "https://github.com/bellib/jeas-core#readme",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "jeas-core",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bellib/jeas-core.git"
   },
-  "keywords": [],
-  "author": "Bellia habib <bellib6@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bellib/jeas-core/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/bellib/jeas-core#readme"
+  "version": "0.0.1"
 }
